@@ -141,3 +141,5 @@ Chaque dossier concerne un jeu de données et contient un calepin (*notebooks*) 
 - [`Cachets-Hittites`](https://github.com/wikistat/Exploration/blob/master/Cachets-Hittites/) Exploration avec R d'un corpus de 118 cachets hittites décrits par 12 variables plus la présence de hiéroglyphes. Peut-on prévoir la datation?
 - [`Pourriels`](https://github.com/wikistat/Exploration/blob/master/Spam/) exploration et caractérisation d'un corpus de courriels afin d'identifier les pourriels.
 - [`Mars`](https://github.com/wikistat/Exploration/blob/master/Mars/) Segmentation d'un image de mars par classifications non supervisées. Représentation de la carte géologique de la surface de Mars.
+
+Ceci est une modification Eduardesque.
